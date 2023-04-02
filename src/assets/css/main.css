@@ -23,3 +23,15 @@ button{
     height: 30px;
     padding: 5px 10px;
 }
+
+.message{
+    margin-top: 5px;
+}
+
+.pos{
+    margin-bottom: 5px;
+}
+
+.no_result p{
+    margin-bottom: 5px;
+}
